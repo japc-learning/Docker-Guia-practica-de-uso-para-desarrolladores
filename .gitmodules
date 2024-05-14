@@ -1,0 +1,12 @@
+[submodule "postgres-pgadmin"]
+	path = postgres-pgadmin
+	url = https://github.com/pandc19/docker-postgres-pgadmin.git
+[submodule "pokemon-app"]
+	path = pokemon-app
+	url = https://github.com/pandc19/docker-pokemon-app.git
+[submodule "nest-graphql"]
+	path = nest-graphql
+	url = https://github.com/pandc19/docker-nest-graphql.git
+[submodule "cron-ticker"]
+	path = cron-ticker
+	url = https://github.com/pandc19/docker-cron-ticker.git
