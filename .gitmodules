@@ -10,3 +10,6 @@
 [submodule "cron-ticker"]
 	path = cron-ticker
 	url = https://github.com/pandc19/docker-cron-ticker.git
+[submodule "teslo-shop"]
+	path = teslo-shop
+	url = https://github.com/pandc19/docker-teslo-shop.git
