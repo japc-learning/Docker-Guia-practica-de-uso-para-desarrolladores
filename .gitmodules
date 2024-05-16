@@ -13,3 +13,6 @@
 [submodule "teslo-shop"]
 	path = teslo-shop
 	url = https://github.com/pandc19/docker-teslo-shop.git
+[submodule "teslo-testing"]
+	path = teslo-testing
+	url = https://github.com/pandc19/docker-teslo-testing.git
