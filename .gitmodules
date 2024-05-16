@@ -16,3 +16,6 @@
 [submodule "teslo-testing"]
 	path = teslo-testing
 	url = https://github.com/pandc19/docker-teslo-testing.git
+[submodule "graphql-actions"]
+	path = graphql-actions
+	url = https://github.com/pandc19/docker-graphql-actions.git
