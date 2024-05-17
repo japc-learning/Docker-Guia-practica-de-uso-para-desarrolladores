@@ -19,3 +19,6 @@
 [submodule "graphql-actions"]
 	path = graphql-actions
 	url = https://github.com/pandc19/docker-graphql-actions.git
+[submodule "react-heroes"]
+	path = react-heroes
+	url = https://github.com/pandc19/docker-react-heroes.git
