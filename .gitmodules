@@ -22,3 +22,6 @@
 [submodule "react-heroes"]
 	path = react-heroes
 	url = https://github.com/pandc19/docker-react-heroes.git
+[submodule "k8s-teslo"]
+	path = k8s-teslo
+	url = https://github.com/pandc19/docker-k8s-teslo.git
