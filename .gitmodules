@@ -1,27 +1,27 @@
 [submodule "postgres-pgadmin"]
 	path = postgres-pgadmin
-	url = https://github.com/pandc19/docker-postgres-pgadmin.git
+	url = https://github.com/japc-learning/docker-postgres-pgadmin.git
 [submodule "pokemon-app"]
 	path = pokemon-app
-	url = https://github.com/pandc19/docker-pokemon-app.git
+	url = https://github.com/japc-learning/docker-pokemon-app.git
 [submodule "nest-graphql"]
 	path = nest-graphql
-	url = https://github.com/pandc19/docker-nest-graphql.git
+	url = https://github.com/japc-learning/docker-nest-graphql.git
 [submodule "cron-ticker"]
 	path = cron-ticker
-	url = https://github.com/pandc19/docker-cron-ticker.git
+	url = https://github.com/japc-learning/docker-cron-ticker.git
 [submodule "teslo-shop"]
 	path = teslo-shop
-	url = https://github.com/pandc19/docker-teslo-shop.git
+	url = https://github.com/japc-learning/docker-teslo-shop.git
 [submodule "teslo-testing"]
 	path = teslo-testing
-	url = https://github.com/pandc19/docker-teslo-testing.git
+	url = https://github.com/japc-learning/docker-teslo-testing.git
 [submodule "graphql-actions"]
 	path = graphql-actions
-	url = https://github.com/pandc19/docker-graphql-actions.git
+	url = https://github.com/japc-learning/docker-graphql-actions.git
 [submodule "react-heroes"]
 	path = react-heroes
-	url = https://github.com/pandc19/docker-react-heroes.git
+	url = https://github.com/japc-learning/docker-react-heroes.git
 [submodule "k8s-teslo"]
 	path = k8s-teslo
-	url = https://github.com/pandc19/docker-k8s-teslo.git
+	url = https://github.com/japc-learning/docker-k8s-teslo.git
